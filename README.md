@@ -1,4 +1,4 @@
-# 📊 Customer Churn Predictor with Retention Strategies (Streamlit + Gemini AI)
+# 📊 Customer Retention Predictor with Retention Strategies (Streamlit + Gemini AI)
 
 This project is a **Streamlit web app** that predicts whether a customer is likely to churn based on their details, and provides **AI-generated retention strategies** using **Gemini AI**.
 
@@ -34,7 +34,7 @@ This project is a **Streamlit web app** that predicts whether a customer is like
 ## 📦 Installation Guide
 ### 1. Clone the Repository
 ```
-git clone https://github.com/sakshamsharma-code/Customer-Churn-Predictor.git
+git clone https://github.com/sakshamsharma-code/Customer-Retention-Predictor.git
 ```
 ### 2. Install Dependencies
 ```
