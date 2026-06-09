@@ -25,7 +25,7 @@ def get_retention_suggestion(user_data):
         """
 
 
-        model = genai.GenerativeModel(model_name="gemini-2.5-pro")
+        model = genai.GenerativeModel(model_name="gemini-2.5-flash")
         response = model.generate_content(prompt)
         return response.text.strip()
 
